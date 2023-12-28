@@ -48,12 +48,7 @@ export const Navbar = () => {
                       Kirish
                     </button>
                   </a>
-                  <div id="myModal" class="modal">
-                    <div class="modal-content">
-                      <span class="close">&times;</span>
-                      <p>Some text in the Modal..</p>
-                    </div>
-                  </div>
+                 
                 </li>
 
                 <li className="header__login-list-twoo heart-list">
