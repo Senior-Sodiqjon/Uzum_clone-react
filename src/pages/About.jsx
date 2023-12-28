@@ -1,6 +1,4 @@
 import React, { useEffect, useState } from "react";
-import Flickity from "react-flickity-component";
-import "flickity/css/flickity.css";
 import { useNavigate } from "react-router-dom";
 import Bag from "../images/bag.svg";
 import axios from "axios";

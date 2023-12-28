@@ -1,5 +1,4 @@
 // Home.js
-import "flickity/css/flickity.css";
 // Import CardDetail component
 
 const Login = () => {

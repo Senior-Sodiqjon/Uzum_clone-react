@@ -1,7 +1,5 @@
 // Catalog.js
 import React, { useEffect, useState } from "react";
-import Flickity from "react-flickity-component";
-import "flickity/css/flickity.css";
 import { Link, useNavigate } from "react-router-dom";
 import Bsckuzum from "../images/backroudnuzm.svg";
 import Bag from "../images/bag.svg";
